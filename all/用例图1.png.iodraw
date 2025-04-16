@@ -67,8 +67,8 @@
         <mxCell id="OWJwRRj8zWn-Vo3vNc9C-15" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;归还信息管理&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OWJwRRj8zWn-Vo3vNc9C-16" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;系统首页&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="OWJwRRj8zWn-Vo3vNc9C-16" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;个人中心&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
