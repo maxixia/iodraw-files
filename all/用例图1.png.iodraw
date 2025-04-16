@@ -40,8 +40,8 @@
         <mxCell id="TlkuMhDz3yt7EzbY8GUd-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;公告信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="585" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TlkuMhDz3yt7EzbY8GUd-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;汽车信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="670" width="100" height="50" as="geometry" />
+        <mxCell id="TlkuMhDz3yt7EzbY8GUd-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;个人中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
