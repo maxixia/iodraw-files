@@ -7,7 +7,7 @@
         <mxCell id="vpX2oVKiq2JZO3hlmUdc-1" value="汽车共享系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="790" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vpX2oVKiq2JZO3hlmUdc-2" value="前台用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vpX2oVKiq2JZO3hlmUdc-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前台用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="730" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vpX2oVKiq2JZO3hlmUdc-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;系统首页&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
@@ -19,8 +19,8 @@
         <mxCell id="vpX2oVKiq2JZO3hlmUdc-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;公告信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vpX2oVKiq2JZO3hlmUdc-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;汽车信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="30" height="110" as="geometry" />
+        <mxCell id="vpX2oVKiq2JZO3hlmUdc-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;个人中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="489" y="550" width="30" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
