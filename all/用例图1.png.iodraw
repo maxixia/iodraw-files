@@ -76,6 +76,9 @@
             <mxPoint x="360" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OWJwRRj8zWn-Vo3vNc9C-18" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;个人中心&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
