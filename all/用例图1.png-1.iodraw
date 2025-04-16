@@ -259,7 +259,13 @@
             <mxPoint x="550" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aj2_mSMgc2wpesayRXJr-99" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Aj2_mSMgc2wpesayRXJr-78">
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-99" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aj2_mSMgc2wpesayRXJr-69" target="Aj2_mSMgc2wpesayRXJr-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="660" as="sourcePoint" />
+            <mxPoint x="550" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="660" as="sourcePoint" />
             <mxPoint x="550" y="660" as="targetPoint" />
