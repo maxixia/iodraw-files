@@ -422,7 +422,7 @@
           <mxGeometry x="970" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-138" value="用户姓名" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="1180" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-139" value="汽车名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="940" y="410" width="100" height="40" as="geometry" />
@@ -455,7 +455,10 @@
           <mxGeometry x="1210" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-153" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="450" width="100" height="40" as="geometry" />
+          <mxGeometry x="1150" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-154" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
