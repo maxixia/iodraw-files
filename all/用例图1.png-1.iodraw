@@ -431,7 +431,16 @@
           <mxGeometry x="900" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-144" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="990" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="870" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-145" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-146" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-147" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="230" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
