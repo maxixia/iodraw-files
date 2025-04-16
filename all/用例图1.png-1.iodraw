@@ -364,8 +364,8 @@
             <mxPoint x="870" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aj2_mSMgc2wpesayRXJr-123" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-124" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="540" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
