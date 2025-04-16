@@ -49,7 +49,7 @@
             <mxPoint x="360" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OWJwRRj8zWn-Vo3vNc9C-10" value="系统首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OWJwRRj8zWn-Vo3vNc9C-10" value="&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;系统首页&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
