@@ -13,6 +13,12 @@
         <mxCell id="vpX2oVKiq2JZO3hlmUdc-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;系统首页&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="310" y="550" width="30" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="vpX2oVKiq2JZO3hlmUdc-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;汽车信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vpX2oVKiq2JZO3hlmUdc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
