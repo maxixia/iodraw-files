@@ -25,7 +25,7 @@
         <mxCell id="vpX2oVKiq2JZO3hlmUdc-9" value="后台模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vpX2oVKiq2JZO3hlmUdc-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vpX2oVKiq2JZO3hlmUdc-10" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="900" width="136" height="30" as="geometry" />
         </mxCell>
       </root>
