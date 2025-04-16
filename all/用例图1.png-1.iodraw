@@ -34,7 +34,7 @@
             <mxPoint x="420" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aj2_mSMgc2wpesayRXJr-15" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-15" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
