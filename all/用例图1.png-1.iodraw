@@ -50,10 +50,10 @@
           <mxGeometry x="190" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-21" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-22" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-23" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="100" height="40" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="530" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-26" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="540" y="400" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
