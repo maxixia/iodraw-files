@@ -365,7 +365,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Aj2_mSMgc2wpesayRXJr-124" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="990" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="930" y="650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-125" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aj2_mSMgc2wpesayRXJr-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="560" as="sourcePoint" />
+            <mxPoint x="1120" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
