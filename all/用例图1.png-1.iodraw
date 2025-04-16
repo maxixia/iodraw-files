@@ -16,18 +16,10 @@
         <mxCell id="Aj2_mSMgc2wpesayRXJr-8" value="管理员" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Aj2_mSMgc2wpesayRXJr-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="340" y="500" as="sourcePoint" />
+        <mxCell id="Aj2_mSMgc2wpesayRXJr-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="500" as="sourcePoint" />
             <mxPoint x="420" y="500" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Aj2_mSMgc2wpesayRXJr-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="340" y="500" as="sourcePoint" />
-            <mxPoint x="420" y="500" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
